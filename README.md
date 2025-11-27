@@ -85,7 +85,7 @@ The application displays:
 
 ## 👨‍💻 Author
 
-John Vaness Aquino - NT 4181
+John Vaness Aquino - NT 4101
 
 ## 📄 License
 

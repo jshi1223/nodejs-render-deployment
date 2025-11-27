@@ -50,11 +50,6 @@ app.get('/', (req, res) => {
           font-size: 1.1em;
           line-height: 1.6;
         }
-        .footer {
-          margin-top: 30px;
-          color: #888;
-          font-size: 0.9em;
-        }
       </style>
     </head>
     <body>
@@ -64,14 +59,11 @@ app.get('/', (req, res) => {
           <strong>Name:</strong> John Vaness Aquino
         </div>
         <div class="section">
-          <strong>Class Section:</strong> [NT 4101]
+          <strong>Class Section:</strong> NT 4101
         </div>
         <div class="quote">
           "Success is not final, failure is not fatal: it is the courage to continue that counts."
           <br>— Winston Churchill
-        </div>
-        <div class="footer">
-          Deployed on Render.com | Powered by Node.js & Express
         </div>
       </div>
     </body>

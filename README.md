@@ -5,7 +5,7 @@ Simple Node.js app for PaaS deployment
 ## 📋 Project Information
 
 - **Student Name**: John Vaness Aquino
-- **Class Section**: NT 4181
+- **Class Section**: NT 4101
 - **Live URL**: https://nodejs-vanessaquino-app.onrender.com
 - **Platform**: Render.com (Free Tier)
 
